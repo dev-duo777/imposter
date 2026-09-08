@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap');
+
+:root {
+  /* Clean Light Theme Palette */
+  --bg-color: #f9fafb;        /* Gray 50 - Very soft background */
+  --bg-color-light: #ffffff;  /* Pure white for cards */
+  --bg-color-lighter: #f3f4f6;/* Gray 100 for hovers */
+  
+  /* Vibrant Accents */
+  --primary-blue: #2563eb;    /* Blue 600 */
+  --primary-blue-hover: #1d4ed8;
+  --primary-red: #ef4444;     /* Red 500 */
+  --primary-red-hover: #dc2626;
+  --secondary-yellow: #f59e0b;/* Amber 500 */
+  
+  /* Text */
+  --text-dark: #111827;       /* Gray 900 for high contrast text */
+  --text-light: #ffffff;      /* White text for buttons */
+  --text-gray: #6b7280;       /* Gray 500 for secondary text */
+  
+  /* Depth & Shadows */
+  --card-border: #e5e7eb;     /* Gray 200 */
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --glass-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  
+  /* Typography */
+  --font-body: 'Inter', sans-serif;
+  --font-header: 'Outfit', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-color);
+  color: var(--text-dark);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  min-height: 100vh;
+  /* Use safe area insets so it doesn't overlap the iOS dynamic island or home bar */
+  padding: calc(16px + env(safe-area-inset-top)) 20px calc(24px + env(safe-area-inset-bottom)) 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+  font-family: var(--font-header);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+/* Cards (Clean & Crisp) */
+.card {
+  background: var(--bg-color-light);
+  border: 1px solid var(--card-border);
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: var(--card-shadow);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+/* Buttons (Professional) */
+.btn-primary {
+  background-color: var(--primary-blue);
+  color: var(--text-light);
+  border: none;
+  border-radius: 12px;
+  padding: 16px 32px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: var(--font-body);
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2);
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-blue-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 8px -1px rgba(37, 99, 235, 0.3);
+}
+
+.btn-primary:active {
+  transform: translateY(1px);
+  box-shadow: 0 1px 2px rgba(37, 99, 235, 0.2);
+}
+
+.btn-primary.danger {
+  background-color: var(--primary-red);
+  box-shadow: 0 4px 6px -1px rgba(239, 68, 68, 0.2);
+}
+
+.btn-primary.danger:hover {
+  background-color: var(--primary-red-hover);
+  box-shadow: 0 6px 8px -1px rgba(239, 68, 68, 0.3);
+}
+
+.btn-primary:disabled {
+  background-color: var(--bg-color-lighter);
+  color: var(--text-gray);
+  box-shadow: none;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn-icon {
+  background: var(--bg-color-light);
+  border: 1px solid var(--card-border);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-dark);
+  border-radius: 50%;
+  padding: 8px;
+  transition: all 0.15s ease;
+  box-shadow: var(--card-shadow);
+}
+
+.btn-icon:hover {
+  background: var(--bg-color-lighter);
+  transform: scale(1.05);
+}
+
+.btn-icon:active {
+  transform: scale(0.95);
+}
+
+/* List Item (Clean Rows) */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  background: var(--bg-color-light);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  margin-bottom: 8px;
+  font-weight: 500;
+  transition: all 0.15s ease;
+  box-shadow: var(--card-shadow);
+}
+
+.list-item:hover {
+  border-color: var(--primary-blue);
+  box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.1);
+}
+
+.list-item-value {
+  color: var(--text-gray);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 400;
+}
+
+/* Toggle Switch */
+.toggle-switch {
+  position: relative;
+  width: 50px;
+  height: 28px;
+}
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: var(--card-border);
+  transition: .3s;
+  border-radius: 34px;
+}
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 22px;
+  width: 22px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: .3s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+input:checked + .slider {
+  background-color: var(--primary-blue);
+}
+input:checked + .slider:before {
+  transform: translateX(22px);
+}
+
+/* Animations */
+@keyframes pulse-red {
+  0% { transform: scale(1); color: var(--primary-red); }
+  50% { transform: scale(1.05); color: #dc2626; text-shadow: 0 0 10px rgba(239, 68, 68, 0.3); }
+  100% { transform: scale(1); color: var(--primary-red); }
+}
+
+.timer-pulse {
+  animation: pulse-red 1s infinite;
+}
+
+/* Inputs */
+input[type="text"], input[type="number"] {
+  color: var(--text-dark);
+  font-family: var(--font-body);
+}
+
+input::placeholder {
+  color: var(--text-gray);
+}
+
+/* Layout Utilities */
+.flex-row { display: flex; align-items: center; }
+.flex-col { display: flex; flex-direction: column; }
+.space-between { justify-content: space-between; }
+.justify-center { justify-content: center; }
+.align-center { align-items: center; }
+.text-center { text-align: center; }
+.flex-1 { flex: 1; }
+.mt-2 { margin-top: 1rem; }
+.mt-4 { margin-top: 2rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mb-4 { margin-bottom: 2rem; }
+.w-full { width: 100%; }
+.icon-blue { color: var(--primary-blue); }
+.icon-yellow { color: var(--secondary-yellow); }
+.icon-red { color: var(--primary-red); }
+
+/* Bottom Sheet Animations */
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
