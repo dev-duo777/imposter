@@ -37,10 +37,6 @@
       "hint": "Fence"
     },
     {
-      "word": "Chicken",
-      "hint": "Crossing"
-    },
-    {
       "word": "Duck",
       "hint": "Bread"
     },
@@ -55,14 +51,6 @@
     {
       "word": "Bear",
       "hint": "Picnic"
-    },
-    {
-      "word": "Elephant",
-      "hint": "Peanuts"
-    },
-    {
-      "word": "Monkey",
-      "hint": "Business"
     },
     {
       "word": "Frog",
@@ -93,10 +81,6 @@
       "hint": "Picnic"
     },
     {
-      "word": "Butterfly",
-      "hint": "Net"
-    },
-    {
       "word": "Worm",
       "hint": "Early"
     },
@@ -113,24 +97,8 @@
       "hint": "March"
     },
     {
-      "word": "Kangaroo",
-      "hint": "Pouch"
-    },
-    {
-      "word": "Dolphin",
-      "hint": "Ring"
-    },
-    {
-      "word": "Whale",
-      "hint": "Song"
-    },
-    {
       "word": "Shark",
       "hint": "Bite"
-    },
-    {
-      "word": "Octopus",
-      "hint": "Sucker"
     },
     {
       "word": "Crab",
@@ -159,10 +127,6 @@
     {
       "word": "Taco",
       "hint": "Tuesday"
-    },
-    {
-      "word": "Sandwich",
-      "hint": "Deli"
     },
     {
       "word": "Soup",
@@ -229,14 +193,6 @@
       "hint": "Vineyard"
     },
     {
-      "word": "Strawberry",
-      "hint": "Patch"
-    },
-    {
-      "word": "Watermelon",
-      "hint": "Summer"
-    },
-    {
       "word": "Lemon",
       "hint": "Wedge"
     },
@@ -251,14 +207,6 @@
     {
       "word": "Pie",
       "hint": "Crust"
-    },
-    {
-      "word": "Icecream",
-      "hint": "Melt"
-    },
-    {
-      "word": "Chocolate",
-      "hint": "Valentine"
     },
     {
       "word": "Candy",
@@ -295,10 +243,6 @@
     {
       "word": "Floor",
       "hint": "Swept"
-    },
-    {
-      "word": "Ceiling",
-      "hint": "High"
     },
     {
       "word": "Roof",
@@ -353,10 +297,6 @@
       "hint": "Rack"
     },
     {
-      "word": "Toothbrush",
-      "hint": "Mint"
-    },
-    {
       "word": "Comb",
       "hint": "Part"
     },
@@ -381,20 +321,12 @@
       "hint": "Squeak"
     },
     {
-      "word": "Trashcan",
-      "hint": "Raccoon"
-    },
-    {
       "word": "Phone",
       "hint": "Screen"
     },
     {
       "word": "Computer",
       "hint": "Mouse"
-    },
-    {
-      "word": "Television",
-      "hint": "Static"
     },
     {
       "word": "Radio",
@@ -479,10 +411,6 @@
     {
       "word": "Neck",
       "hint": "Tie"
-    },
-    {
-      "word": "Shoulder",
-      "hint": "Blade"
     },
     {
       "word": "Arm",
@@ -657,10 +585,6 @@
       "hint": "Deserted"
     },
     {
-      "word": "Valley",
-      "hint": "Forge"
-    },
-    {
       "word": "Shirt",
       "hint": "Button"
     },
@@ -674,7 +598,7 @@
     },
     {
       "word": "Dress",
-      "hint": "Prom"
+      "hint": "Midi"
     },
     {
       "word": "Skirt",
@@ -682,27 +606,27 @@
     },
     {
       "word": "Sock",
-      "hint": "Lint"
+      "hint": "Drawer"
     },
     {
       "word": "Shoe",
-      "hint": "Sole"
+      "hint": "Lace"
     },
     {
       "word": "Boot",
-      "hint": "Mud"
+      "hint": "Hike"
     },
     {
       "word": "Sandal",
-      "hint": "Strap"
+      "hint": "Beach"
     },
     {
       "word": "Hat",
-      "hint": "Tip"
+      "hint": "Trick"
     },
     {
       "word": "Cap",
-      "hint": "Baseball"
+      "hint": "Gown"
     },
     {
       "word": "Jacket",
@@ -745,14 +669,6 @@
       "hint": "Flannel"
     },
     {
-      "word": "Underwear",
-      "hint": "Laundry"
-    },
-    {
-      "word": "Swimsuit",
-      "hint": "Chlorine"
-    },
-    {
       "word": "Glasses",
       "hint": "Frames"
     },
@@ -762,7 +678,7 @@
     },
     {
       "word": "Car",
-      "hint": "Garage"
+      "hint": "Park"
     },
     {
       "word": "Truck",
@@ -774,7 +690,7 @@
     },
     {
       "word": "Train",
-      "hint": "Conductor"
+      "hint": "Track"
     },
     {
       "word": "Airplane",
@@ -793,38 +709,1142 @@
       "hint": "Spoke"
     },
     {
-      "word": "Motorcycle",
-      "hint": "Leather"
-    },
-    {
-      "word": "Helicopter",
-      "hint": "Pad"
-    },
-    {
-      "word": "Submarine",
-      "hint": "Periscope"
-    },
-    {
       "word": "Rocket",
       "hint": "Launch"
-    },
-    {
-      "word": "Skateboard",
-      "hint": "Deck"
     },
     {
       "word": "Scooter",
       "hint": "Balance"
     },
     {
-      "word": "Rollerblades",
-      "hint": "Laces"
+      "word": "Gold",
+      "hint": "Rush"
+    },
+    {
+      "word": "Silver",
+      "hint": "Medal"
+    },
+    {
+      "word": "Bronze",
+      "hint": "Third"
+    },
+    {
+      "word": "Iron",
+      "hint": "Man"
+    },
+    {
+      "word": "Copper",
+      "hint": "Wire"
+    },
+    {
+      "word": "Zinc",
+      "hint": "Oxide"
+    },
+    {
+      "word": "Lead",
+      "hint": "Heavy"
+    },
+    {
+      "word": "Tin",
+      "hint": "Can"
+    },
+    {
+      "word": "Brass",
+      "hint": "Band"
+    },
+    {
+      "word": "Steel",
+      "hint": "Beam"
+    },
+    {
+      "word": "Glass",
+      "hint": "Window"
+    },
+    {
+      "word": "Plastic",
+      "hint": "Ocean"
+    },
+    {
+      "word": "Paper",
+      "hint": "Tree"
+    },
+    {
+      "word": "Cardboard",
+      "hint": "Box"
+    },
+    {
+      "word": "Leather",
+      "hint": "Jacket"
+    },
+    {
+      "word": "Cotton",
+      "hint": "Candy"
+    },
+    {
+      "word": "Wool",
+      "hint": "Sheep"
+    },
+    {
+      "word": "Silk",
+      "hint": "Worm"
+    },
+    {
+      "word": "Nylon",
+      "hint": "Stocking"
+    },
+    {
+      "word": "Rubber",
+      "hint": "Band"
+    },
+    {
+      "word": "String",
+      "hint": "Theory"
+    },
+    {
+      "word": "Rope",
+      "hint": "Burn"
+    },
+    {
+      "word": "Thread",
+      "hint": "Needle"
+    },
+    {
+      "word": "Wire",
+      "hint": "Trip"
+    },
+    {
+      "word": "Cable",
+      "hint": "Car"
+    },
+    {
+      "word": "Chain",
+      "hint": "Link"
+    },
+    {
+      "word": "Lock",
+      "hint": "Key"
+    },
+    {
+      "word": "Key",
+      "hint": "Hole"
+    },
+    {
+      "word": "Hinge",
+      "hint": "Creak"
+    },
+    {
+      "word": "Nail",
+      "hint": "Hammer"
+    },
+    {
+      "word": "Screw",
+      "hint": "Driver"
+    },
+    {
+      "word": "Bolt",
+      "hint": "Lightning"
+    },
+    {
+      "word": "Nut",
+      "hint": "Crack"
+    },
+    {
+      "word": "Washer",
+      "hint": "Dryer"
+    },
+    {
+      "word": "Spring",
+      "hint": "Coil"
+    },
+    {
+      "word": "Gear",
+      "hint": "Shift"
+    },
+    {
+      "word": "Wheel",
+      "hint": "Steer"
+    },
+    {
+      "word": "Tire",
+      "hint": "Flat"
+    },
+    {
+      "word": "Brake",
+      "hint": "Pad"
+    },
+    {
+      "word": "Engine",
+      "hint": "Start"
+    },
+    {
+      "word": "Motor",
+      "hint": "Boat"
+    },
+    {
+      "word": "Battery",
+      "hint": "Dead"
+    },
+    {
+      "word": "Bulb",
+      "hint": "Light"
+    },
+    {
+      "word": "Switch",
+      "hint": "Bait"
+    },
+    {
+      "word": "Plug",
+      "hint": "Socket"
+    },
+    {
+      "word": "Socket",
+      "hint": "Eye"
+    },
+    {
+      "word": "Wire",
+      "hint": "Copper"
+    },
+    {
+      "word": "Pipe",
+      "hint": "Dream"
+    },
+    {
+      "word": "Tube",
+      "hint": "Test"
+    },
+    {
+      "word": "Hose",
+      "hint": "Water"
+    },
+    {
+      "word": "Valve",
+      "hint": "Heart"
+    },
+    {
+      "word": "Pump",
+      "hint": "Gas"
+    },
+    {
+      "word": "Filter",
+      "hint": "Coffee"
+    },
+    {
+      "word": "Fan",
+      "hint": "Ceiling"
+    },
+    {
+      "word": "Vent",
+      "hint": "Air"
+    },
+    {
+      "word": "Duct",
+      "hint": "Tape"
+    },
+    {
+      "word": "Brick",
+      "hint": "Wall"
+    },
+    {
+      "word": "Stone",
+      "hint": "Age"
+    },
+    {
+      "word": "Tile",
+      "hint": "Floor"
+    },
+    {
+      "word": "Carpet",
+      "hint": "Magic"
+    },
+    {
+      "word": "Rug",
+      "hint": "Bug"
+    },
+    {
+      "word": "Paint",
+      "hint": "Brush"
+    },
+    {
+      "word": "Color",
+      "hint": "Blind"
+    },
+    {
+      "word": "Red",
+      "hint": "Sea"
+    },
+    {
+      "word": "Blue",
+      "hint": "Moon"
+    },
+    {
+      "word": "Green",
+      "hint": "Thumb"
+    },
+    {
+      "word": "Yellow",
+      "hint": "Sub"
+    },
+    {
+      "word": "Black",
+      "hint": "Hole"
+    },
+    {
+      "word": "White",
+      "hint": "House"
+    },
+    {
+      "word": "Brown",
+      "hint": "Bear"
+    },
+    {
+      "word": "Pink",
+      "hint": "Panther"
+    },
+    {
+      "word": "Purple",
+      "hint": "Rain"
+    },
+    {
+      "word": "Orange",
+      "hint": "Juice"
+    },
+    {
+      "word": "Gray",
+      "hint": "Area"
+    },
+    {
+      "word": "Silver",
+      "hint": "Lining"
+    },
+    {
+      "word": "Gold",
+      "hint": "Mine"
+    },
+    {
+      "word": "Shape",
+      "hint": "Shift"
+    },
+    {
+      "word": "Circle",
+      "hint": "Life"
+    },
+    {
+      "word": "Square",
+      "hint": "Root"
+    },
+    {
+      "word": "Triangle",
+      "hint": "Bermuda"
+    },
+    {
+      "word": "Cube",
+      "hint": "Ice"
+    },
+    {
+      "word": "Sphere",
+      "hint": "Atmosphere"
+    },
+    {
+      "word": "Line",
+      "hint": "Dance"
+    },
+    {
+      "word": "Point",
+      "hint": "Blank"
+    },
+    {
+      "word": "Angle",
+      "hint": "Right"
+    },
+    {
+      "word": "Curve",
+      "hint": "Ball"
+    },
+    {
+      "word": "Size",
+      "hint": "Matter"
+    },
+    {
+      "word": "Large",
+      "hint": "Fries"
+    },
+    {
+      "word": "Small",
+      "hint": "Fry"
+    },
+    {
+      "word": "Tall",
+      "hint": "Tale"
+    },
+    {
+      "word": "Short",
+      "hint": "Cut"
+    },
+    {
+      "word": "High",
+      "hint": "Five"
+    },
+    {
+      "word": "Low",
+      "hint": "Blow"
+    },
+    {
+      "word": "Deep",
+      "hint": "Sea"
+    },
+    {
+      "word": "Wide",
+      "hint": "Open"
+    },
+    {
+      "word": "Narrow",
+      "hint": "Escape"
+    },
+    {
+      "word": "Thick",
+      "hint": "Skull"
+    },
+    {
+      "word": "Thin",
+      "hint": "Ice"
+    },
+    {
+      "word": "Heavy",
+      "hint": "Metal"
+    },
+    {
+      "word": "Light",
+      "hint": "Bulb"
+    },
+    {
+      "word": "Dark",
+      "hint": "Knight"
+    },
+    {
+      "word": "Bright",
+      "hint": "Idea"
+    },
+    {
+      "word": "Soft",
+      "hint": "Spot"
+    },
+    {
+      "word": "Hard",
+      "hint": "Rock"
+    },
+    {
+      "word": "Smooth",
+      "hint": "Talk"
+    },
+    {
+      "word": "Rough",
+      "hint": "Draft"
+    },
+    {
+      "word": "Sharp",
+      "hint": "Pain"
+    },
+    {
+      "word": "Dull",
+      "hint": "Boy"
+    },
+    {
+      "word": "Hot",
+      "hint": "Dog"
+    },
+    {
+      "word": "Cold",
+      "hint": "Shoulder"
+    },
+    {
+      "word": "Warm",
+      "hint": "Heart"
+    },
+    {
+      "word": "Cool",
+      "hint": "Cat"
+    },
+    {
+      "word": "Sweet",
+      "hint": "Tooth"
+    },
+    {
+      "word": "Sour",
+      "hint": "Puss"
+    },
+    {
+      "word": "Bitter",
+      "hint": "Truth"
+    },
+    {
+      "word": "Salty",
+      "hint": "Tear"
+    },
+    {
+      "word": "Fresh",
+      "hint": "Prince"
+    },
+    {
+      "word": "Stale",
+      "hint": "Bread"
+    },
+    {
+      "word": "Clean",
+      "hint": "Slate"
+    },
+    {
+      "word": "Dirty",
+      "hint": "Look"
+    },
+    {
+      "word": "Clear",
+      "hint": "Sky"
+    },
+    {
+      "word": "Cloudy",
+      "hint": "Day"
+    },
+    {
+      "word": "Sunny",
+      "hint": "Side"
+    },
+    {
+      "word": "Rainy",
+      "hint": "Day"
+    },
+    {
+      "word": "Snowy",
+      "hint": "Owl"
+    },
+    {
+      "word": "Windy",
+      "hint": "City"
+    },
+    {
+      "word": "Stormy",
+      "hint": "Weather"
+    },
+    {
+      "word": "Loud",
+      "hint": "Mouth"
+    },
+    {
+      "word": "Quiet",
+      "hint": "Riot"
+    },
+    {
+      "word": "Silent",
+      "hint": "Night"
+    },
+    {
+      "word": "Noisy",
+      "hint": "Neighbor"
+    },
+    {
+      "word": "Fast",
+      "hint": "Food"
+    },
+    {
+      "word": "Slow",
+      "hint": "Motion"
+    },
+    {
+      "word": "Quick",
+      "hint": "Sand"
+    },
+    {
+      "word": "Early",
+      "hint": "Bird"
+    },
+    {
+      "word": "Late",
+      "hint": "Night"
+    },
+    {
+      "word": "Young",
+      "hint": "Gun"
+    },
+    {
+      "word": "Old",
+      "hint": "School"
+    },
+    {
+      "word": "New",
+      "hint": "York"
+    },
+    {
+      "word": "Good",
+      "hint": "Grief"
+    },
+    {
+      "word": "Bad",
+      "hint": "Boy"
+    },
+    {
+      "word": "Right",
+      "hint": "Turn"
+    },
+    {
+      "word": "Wrong",
+      "hint": "Way"
+    },
+    {
+      "word": "True",
+      "hint": "Love"
+    },
+    {
+      "word": "False",
+      "hint": "Alarm"
+    },
+    {
+      "word": "Real",
+      "hint": "Estate"
+    },
+    {
+      "word": "Fake",
+      "hint": "News"
+    },
+    {
+      "word": "Full",
+      "hint": "Moon"
+    },
+    {
+      "word": "Empty",
+      "hint": "Nest"
+    },
+    {
+      "word": "Rich",
+      "hint": "Kid"
+    },
+    {
+      "word": "Poor",
+      "hint": "Boy"
+    },
+    {
+      "word": "Happy",
+      "hint": "Meal"
+    },
+    {
+      "word": "Sad",
+      "hint": "Song"
+    },
+    {
+      "word": "Glad",
+      "hint": "Bag"
+    },
+    {
+      "word": "Mad",
+      "hint": "Hatter"
+    },
+    {
+      "word": "Angry",
+      "hint": "Bird"
+    },
+    {
+      "word": "Brave",
+      "hint": "Heart"
+    },
+    {
+      "word": "Scared",
+      "hint": "Stiff"
+    },
+    {
+      "word": "Smart",
+      "hint": "Alec"
+    },
+    {
+      "word": "Dumb",
+      "hint": "Bell"
+    },
+    {
+      "word": "Wise",
+      "hint": "Guy"
+    },
+    {
+      "word": "Foolish",
+      "hint": "Pride"
+    },
+    {
+      "word": "Crazy",
+      "hint": "Horse"
+    },
+    {
+      "word": "Sane",
+      "hint": "Asylum"
+    },
+    {
+      "word": "Funny",
+      "hint": "Bone"
+    },
+    {
+      "word": "Serious",
+      "hint": "Business"
+    },
+    {
+      "word": "Wild",
+      "hint": "Card"
+    },
+    {
+      "word": "Calm",
+      "hint": "Down"
+    },
+    {
+      "word": "Busy",
+      "hint": "Bee"
+    },
+    {
+      "word": "Lazy",
+      "hint": "Bones"
+    },
+    {
+      "word": "Tired",
+      "hint": "Eyes"
+    },
+    {
+      "word": "Awake",
+      "hint": "Dream"
+    },
+    {
+      "word": "Asleep",
+      "hint": "Wheel"
+    },
+    {
+      "word": "Alive",
+      "hint": "Kicking"
+    },
+    {
+      "word": "Dead",
+      "hint": "End"
+    },
+    {
+      "word": "Birth",
+      "hint": "Day"
+    },
+    {
+      "word": "Death",
+      "hint": "Star"
+    },
+    {
+      "word": "Life",
+      "hint": "Guard"
+    },
+    {
+      "word": "Love",
+      "hint": "Bird"
+    },
+    {
+      "word": "Hate",
+      "hint": "Crime"
+    },
+    {
+      "word": "Fear",
+      "hint": "Factor"
+    },
+    {
+      "word": "Hope",
+      "hint": "Diamond"
+    },
+    {
+      "word": "Dream",
+      "hint": "Boat"
+    },
+    {
+      "word": "Night",
+      "hint": "Mare"
+    },
+    {
+      "word": "Day",
+      "hint": "Light"
+    },
+    {
+      "word": "Morning",
+      "hint": "Glory"
+    },
+    {
+      "word": "Evening",
+      "hint": "Gown"
+    },
+    {
+      "word": "Night",
+      "hint": "Owl"
+    },
+    {
+      "word": "Today",
+      "hint": "Show"
+    },
+    {
+      "word": "Tomorrow",
+      "hint": "Never"
+    },
+    {
+      "word": "Yesterday",
+      "hint": "Beatles"
+    },
+    {
+      "word": "Week",
+      "hint": "End"
+    },
+    {
+      "word": "Month",
+      "hint": "End"
+    },
+    {
+      "word": "Year",
+      "hint": "Book"
+    },
+    {
+      "word": "Decade",
+      "hint": "Dance"
+    },
+    {
+      "word": "Century",
+      "hint": "Fox"
+    },
+    {
+      "word": "Time",
+      "hint": "Machine"
+    },
+    {
+      "word": "Hour",
+      "hint": "Glass"
+    },
+    {
+      "word": "Minute",
+      "hint": "Maid"
+    },
+    {
+      "word": "Second",
+      "hint": "Hand"
+    },
+    {
+      "word": "Clock",
+      "hint": "Work"
+    },
+    {
+      "word": "Watch",
+      "hint": "Dog"
+    },
+    {
+      "word": "Calendar",
+      "hint": "Girl"
+    },
+    {
+      "word": "Diary",
+      "hint": "Wimpy"
+    },
+    {
+      "word": "Journal",
+      "hint": "Wall"
+    },
+    {
+      "word": "Book",
+      "hint": "Worm"
+    },
+    {
+      "word": "Page",
+      "hint": "Turner"
+    },
+    {
+      "word": "Chapter",
+      "hint": "Verse"
+    },
+    {
+      "word": "Story",
+      "hint": "Board"
+    },
+    {
+      "word": "Poem",
+      "hint": "Ode"
+    },
+    {
+      "word": "Song",
+      "hint": "Bird"
+    },
+    {
+      "word": "Music",
+      "hint": "Box"
+    },
+    {
+      "word": "Art",
+      "hint": "Work"
+    },
+    {
+      "word": "Paint",
+      "hint": "Ball"
+    },
+    {
+      "word": "Draw",
+      "hint": "Bridge"
+    },
+    {
+      "word": "Picture",
+      "hint": "Frame"
+    },
+    {
+      "word": "Photo",
+      "hint": "Graph"
+    },
+    {
+      "word": "Image",
+      "hint": "Mirror"
+    },
+    {
+      "word": "Film",
+      "hint": "Strip"
+    },
+    {
+      "word": "Movie",
+      "hint": "Star"
+    },
+    {
+      "word": "Video",
+      "hint": "Game"
+    },
+    {
+      "word": "Play",
+      "hint": "Ground"
+    },
+    {
+      "word": "Game",
+      "hint": "Boy"
+    },
+    {
+      "word": "Toy",
+      "hint": "Story"
+    },
+    {
+      "word": "Doll",
+      "hint": "House"
+    },
+    {
+      "word": "Bear",
+      "hint": "Hug"
+    },
+    {
+      "word": "Ball",
+      "hint": "Park"
+    },
+    {
+      "word": "Bat",
+      "hint": "Man"
+    },
+    {
+      "word": "Glove",
+      "hint": "Box"
+    },
+    {
+      "word": "Mask",
+      "hint": "Face"
+    },
+    {
+      "word": "Cape",
+      "hint": "Cod"
+    },
+    {
+      "word": "Crown",
+      "hint": "Jewel"
+    },
+    {
+      "word": "King",
+      "hint": "Kong"
+    },
+    {
+      "word": "Queen",
+      "hint": "Bee"
+    },
+    {
+      "word": "Prince",
+      "hint": "Charming"
+    },
+    {
+      "word": "Princess",
+      "hint": "Leia"
+    },
+    {
+      "word": "Castle",
+      "hint": "Rock"
+    },
+    {
+      "word": "Knight",
+      "hint": "Rider"
+    },
+    {
+      "word": "Dragon",
+      "hint": "Fly"
+    },
+    {
+      "word": "Fairy",
+      "hint": "Tale"
+    },
+    {
+      "word": "Magic",
+      "hint": "Wand"
+    },
+    {
+      "word": "Spell",
+      "hint": "Bound"
+    },
+    {
+      "word": "Curse",
+      "hint": "Word"
+    },
+    {
+      "word": "Ghost",
+      "hint": "Town"
+    },
+    {
+      "word": "Zombie",
+      "hint": "Walk"
+    },
+    {
+      "word": "Vampire",
+      "hint": "Bat"
+    },
+    {
+      "word": "Wolf",
+      "hint": "Man"
+    },
+    {
+      "word": "Monster",
+      "hint": "Mash"
+    },
+    {
+      "word": "Alien",
+      "hint": "UFO"
+    },
+    {
+      "word": "Robot",
+      "hint": "Cop"
+    },
+    {
+      "word": "Cyborg",
+      "hint": "Teen"
+    },
+    {
+      "word": "Mutant",
+      "hint": "Ninja"
+    },
+    {
+      "word": "Hero",
+      "hint": "Sandwich"
+    },
+    {
+      "word": "Villain",
+      "hint": "Super"
+    },
+    {
+      "word": "Police",
+      "hint": "State"
+    },
+    {
+      "word": "Cop",
+      "hint": "Out"
+    },
+    {
+      "word": "Thief",
+      "hint": "River"
+    },
+    {
+      "word": "Robber",
+      "hint": "Bank"
+    },
+    {
+      "word": "Spy",
+      "hint": "Glass"
+    },
+    {
+      "word": "Agent",
+      "hint": "Orange"
+    },
+    {
+      "word": "Doctor",
+      "hint": "Who"
+    },
+    {
+      "word": "Nurse",
+      "hint": "Shark"
+    },
+    {
+      "word": "Patient",
+      "hint": "Zero"
+    },
+    {
+      "word": "Clinic",
+      "hint": "Free"
+    },
+    {
+      "word": "Hospital",
+      "hint": "Gown"
+    },
+    {
+      "word": "Medicine",
+      "hint": "Man"
+    },
+    {
+      "word": "Pill",
+      "hint": "Bug"
+    },
+    {
+      "word": "Drug",
+      "hint": "Store"
+    },
+    {
+      "word": "Poison",
+      "hint": "Ivy"
+    },
+    {
+      "word": "Venom",
+      "hint": "Snake"
+    },
+    {
+      "word": "Cure",
+      "hint": "All"
+    },
+    {
+      "word": "Health",
+      "hint": "Care"
+    },
+    {
+      "word": "Sick",
+      "hint": "Leave"
+    },
+    {
+      "word": "Disease",
+      "hint": "Control"
+    },
+    {
+      "word": "Fever",
+      "hint": "Pitch"
+    },
+    {
+      "word": "Cold",
+      "hint": "War"
+    },
+    {
+      "word": "Flu",
+      "hint": "Shot"
+    },
+    {
+      "word": "Cough",
+      "hint": "Drop"
+    },
+    {
+      "word": "Sneeze",
+      "hint": "Guard"
+    },
+    {
+      "word": "Pain",
+      "hint": "Killer"
+    },
+    {
+      "word": "Ache",
+      "hint": "Heart"
     }
   ],
   "medium": [
     {
       "word": "Doctor",
-      "hint": "Clinic"
+      "hint": "Apple"
     },
     {
       "word": "Nurse",
@@ -832,11 +1852,11 @@
     },
     {
       "word": "Dentist",
-      "hint": "Floss"
+      "hint": "Tooth"
     },
     {
       "word": "Surgeon",
-      "hint": "Theater"
+      "hint": "Scalpel"
     },
     {
       "word": "Veterinarian",
@@ -864,11 +1884,11 @@
     },
     {
       "word": "Police",
-      "hint": "Siren"
+      "hint": "Donut"
     },
     {
       "word": "Firefighter",
-      "hint": "Pole"
+      "hint": "Dalmatian"
     },
     {
       "word": "Soldier",
@@ -928,7 +1948,7 @@
     },
     {
       "word": "Astronaut",
-      "hint": "Gravity"
+      "hint": "Houston"
     },
     {
       "word": "Sailor",
@@ -984,7 +2004,7 @@
     },
     {
       "word": "Hospital",
-      "hint": "Patient"
+      "hint": "Jello"
     },
     {
       "word": "School",
@@ -1113,10 +2133,6 @@
     {
       "word": "Firehouse",
       "hint": "Dalmatian"
-    },
-    {
-      "word": "PoliceStation",
-      "hint": "Cell"
     },
     {
       "word": "CityHall",
@@ -1561,6 +2577,510 @@
     {
       "word": "Compass",
       "hint": "Needle"
+    },
+    {
+      "word": "Mirror",
+      "hint": "Vain"
+    },
+    {
+      "word": "Comb",
+      "hint": "Teeth"
+    },
+    {
+      "word": "Brush",
+      "hint": "Bristle"
+    },
+    {
+      "word": "Razor",
+      "hint": "Blade"
+    },
+    {
+      "word": "Tweezers",
+      "hint": "Pluck"
+    },
+    {
+      "word": "Scissors",
+      "hint": "Snip"
+    },
+    {
+      "word": "Nail",
+      "hint": "Polish"
+    },
+    {
+      "word": "File",
+      "hint": "Cabinet"
+    },
+    {
+      "word": "Folder",
+      "hint": "Manila"
+    },
+    {
+      "word": "Envelope",
+      "hint": "Lick"
+    },
+    {
+      "word": "Stamp",
+      "hint": "Tramp"
+    },
+    {
+      "word": "Letter",
+      "hint": "Head"
+    },
+    {
+      "word": "Postcard",
+      "hint": "Vacation"
+    },
+    {
+      "word": "Package",
+      "hint": "Deal"
+    },
+    {
+      "word": "Box",
+      "hint": "Office"
+    },
+    {
+      "word": "Bag",
+      "hint": "Lady"
+    },
+    {
+      "word": "Sack",
+      "hint": "Lunch"
+    },
+    {
+      "word": "Basket",
+      "hint": "Case"
+    },
+    {
+      "word": "Bucket",
+      "hint": "List"
+    },
+    {
+      "word": "Barrel",
+      "hint": "Roll"
+    },
+    {
+      "word": "Tub",
+      "hint": "Thump"
+    },
+    {
+      "word": "Tank",
+      "hint": "Top"
+    },
+    {
+      "word": "Pool",
+      "hint": "Shark"
+    },
+    {
+      "word": "Pond",
+      "hint": "Scum"
+    },
+    {
+      "word": "Lake",
+      "hint": "Effect"
+    },
+    {
+      "word": "River",
+      "hint": "Dance"
+    },
+    {
+      "word": "Stream",
+      "hint": "Line"
+    },
+    {
+      "word": "Creek",
+      "hint": "Paddle"
+    },
+    {
+      "word": "Brook",
+      "hint": "Babble"
+    },
+    {
+      "word": "Spring",
+      "hint": "Break"
+    },
+    {
+      "word": "Fall",
+      "hint": "Guy"
+    },
+    {
+      "word": "Autumn",
+      "hint": "Leaves"
+    },
+    {
+      "word": "Winter",
+      "hint": "Coat"
+    },
+    {
+      "word": "Summer",
+      "hint": "Camp"
+    },
+    {
+      "word": "Season",
+      "hint": "Ticket"
+    },
+    {
+      "word": "Weather",
+      "hint": "Vane"
+    },
+    {
+      "word": "Climate",
+      "hint": "Change"
+    },
+    {
+      "word": "Forecast",
+      "hint": "Rain"
+    },
+    {
+      "word": "Storm",
+      "hint": "Chaser"
+    },
+    {
+      "word": "Breeze",
+      "hint": "Easy"
+    },
+    {
+      "word": "Gale",
+      "hint": "Force"
+    },
+    {
+      "word": "Hurricane",
+      "hint": "Lamp"
+    },
+    {
+      "word": "Typhoon",
+      "hint": "Lagoon"
+    },
+    {
+      "word": "Cyclone",
+      "hint": "Fence"
+    },
+    {
+      "word": "Tornado",
+      "hint": "Alley"
+    },
+    {
+      "word": "Earthquake",
+      "hint": "Zone"
+    },
+    {
+      "word": "Volcano",
+      "hint": "Ash"
+    },
+    {
+      "word": "Lava",
+      "hint": "Lamp"
+    },
+    {
+      "word": "Magma",
+      "hint": "Chamber"
+    },
+    {
+      "word": "Crater",
+      "hint": "Lake"
+    },
+    {
+      "word": "Canyon",
+      "hint": "Grand"
+    },
+    {
+      "word": "Valley",
+      "hint": "Girl"
+    },
+    {
+      "word": "Hill",
+      "hint": "Billy"
+    },
+    {
+      "word": "Mountain",
+      "hint": "Dew"
+    },
+    {
+      "word": "Peak",
+      "hint": "Hour"
+    },
+    {
+      "word": "Summit",
+      "hint": "Meeting"
+    },
+    {
+      "word": "Cliff",
+      "hint": "Hanger"
+    },
+    {
+      "word": "Rock",
+      "hint": "Bottom"
+    },
+    {
+      "word": "Stone",
+      "hint": "Cold"
+    },
+    {
+      "word": "Boulder",
+      "hint": "Colorado"
+    },
+    {
+      "word": "Pebble",
+      "hint": "Beach"
+    },
+    {
+      "word": "Sand",
+      "hint": "Storm"
+    },
+    {
+      "word": "Dust",
+      "hint": "Bowl"
+    },
+    {
+      "word": "Dirt",
+      "hint": "Cheap"
+    },
+    {
+      "word": "Mud",
+      "hint": "Pie"
+    },
+    {
+      "word": "Clay",
+      "hint": "Pigeon"
+    },
+    {
+      "word": "Brick",
+      "hint": "House"
+    },
+    {
+      "word": "Cement",
+      "hint": "Mixer"
+    },
+    {
+      "word": "Concrete",
+      "hint": "Jungle"
+    },
+    {
+      "word": "Asphalt",
+      "hint": "Jungle"
+    },
+    {
+      "word": "Pavement",
+      "hint": "Crack"
+    },
+    {
+      "word": "Road",
+      "hint": "Trip"
+    },
+    {
+      "word": "Street",
+      "hint": "Smart"
+    },
+    {
+      "word": "Avenue",
+      "hint": "Fifth"
+    },
+    {
+      "word": "Boulevard",
+      "hint": "Sunset"
+    },
+    {
+      "word": "Highway",
+      "hint": "Patrol"
+    },
+    {
+      "word": "Freeway",
+      "hint": "Exit"
+    },
+    {
+      "word": "Lane",
+      "hint": "Change"
+    },
+    {
+      "word": "Alley",
+      "hint": "Cat"
+    },
+    {
+      "word": "Path",
+      "hint": "Finder"
+    },
+    {
+      "word": "Trail",
+      "hint": "Blazer"
+    },
+    {
+      "word": "Track",
+      "hint": "Suit"
+    },
+    {
+      "word": "Rail",
+      "hint": "Road"
+    },
+    {
+      "word": "Train",
+      "hint": "Wreck"
+    },
+    {
+      "word": "Subway",
+      "hint": "Sandwich"
+    },
+    {
+      "word": "Bus",
+      "hint": "Boy"
+    },
+    {
+      "word": "Taxi",
+      "hint": "Cab"
+    },
+    {
+      "word": "Cab",
+      "hint": "Fare"
+    },
+    {
+      "word": "Car",
+      "hint": "Wash"
+    },
+    {
+      "word": "Truck",
+      "hint": "Stop"
+    },
+    {
+      "word": "Van",
+      "hint": "Gogh"
+    },
+    {
+      "word": "Jeep",
+      "hint": "Cherokee"
+    },
+    {
+      "word": "SUV",
+      "hint": "Soccer"
+    },
+    {
+      "word": "Motorcycle",
+      "hint": "Diary"
+    },
+    {
+      "word": "Bike",
+      "hint": "Ride"
+    },
+    {
+      "word": "Bicycle",
+      "hint": "Thief"
+    },
+    {
+      "word": "Scooter",
+      "hint": "Pie"
+    },
+    {
+      "word": "Skateboard",
+      "hint": "Park"
+    },
+    {
+      "word": "Roller",
+      "hint": "Coaster"
+    },
+    {
+      "word": "Skate",
+      "hint": "Board"
+    },
+    {
+      "word": "Ski",
+      "hint": "Lift"
+    },
+    {
+      "word": "Snowboard",
+      "hint": "Halfpipe"
+    },
+    {
+      "word": "Surfboard",
+      "hint": "Wax"
+    },
+    {
+      "word": "Sailboat",
+      "hint": "Mast"
+    },
+    {
+      "word": "Yacht",
+      "hint": "Club"
+    },
+    {
+      "word": "Ship",
+      "hint": "Wreck"
+    },
+    {
+      "word": "Boat",
+      "hint": "House"
+    },
+    {
+      "word": "Ferry",
+      "hint": "Boat"
+    },
+    {
+      "word": "Canoe",
+      "hint": "Trip"
+    },
+    {
+      "word": "Kayak",
+      "hint": "Roll"
+    },
+    {
+      "word": "Raft",
+      "hint": "White"
+    },
+    {
+      "word": "Submarine",
+      "hint": "Yellow"
+    },
+    {
+      "word": "Airplane",
+      "hint": "Mode"
+    },
+    {
+      "word": "Jet",
+      "hint": "Lag"
+    },
+    {
+      "word": "Helicopter",
+      "hint": "Parent"
+    },
+    {
+      "word": "Balloon",
+      "hint": "Hot"
+    },
+    {
+      "word": "Blimp",
+      "hint": "Goodyear"
+    },
+    {
+      "word": "Rocket",
+      "hint": "Man"
+    },
+    {
+      "word": "Missile",
+      "hint": "Command"
+    },
+    {
+      "word": "Satellite",
+      "hint": "Dish"
+    },
+    {
+      "word": "Station",
+      "hint": "Space"
+    },
+    {
+      "word": "Orbit",
+      "hint": "Gum"
+    },
+    {
+      "word": "Planet",
+      "hint": "Hollywood"
+    },
+    {
+      "word": "Star",
+      "hint": "Wars"
+    },
+    {
+      "word": "Sun",
+      "hint": "Dial"
+    },
+    {
+      "word": "Moon",
+      "hint": "Walk"
     }
   ],
   "hard": [
@@ -1583,10 +3103,6 @@
     {
       "word": "Barometer",
       "hint": "Weather"
-    },
-    {
-      "word": "Compass",
-      "hint": "Magnetic"
     },
     {
       "word": "Protractor",
@@ -2283,6 +3799,370 @@
     {
       "word": "Sculpture",
       "hint": "Marble"
+    },
+    {
+      "word": "Galaxy",
+      "hint": "Quest"
+    },
+    {
+      "word": "Universe",
+      "hint": "Miss"
+    },
+    {
+      "word": "Cosmos",
+      "hint": "Carl"
+    },
+    {
+      "word": "Space",
+      "hint": "Jam"
+    },
+    {
+      "word": "Void",
+      "hint": "Null"
+    },
+    {
+      "word": "Vacuum",
+      "hint": "Hoover"
+    },
+    {
+      "word": "Abyss",
+      "hint": "Deep"
+    },
+    {
+      "word": "Chasm",
+      "hint": "Grand"
+    },
+    {
+      "word": "Gorge",
+      "hint": "Eat"
+    },
+    {
+      "word": "Ravine",
+      "hint": "River"
+    },
+    {
+      "word": "Gulch",
+      "hint": "Fern"
+    },
+    {
+      "word": "Arroyo",
+      "hint": "Seco"
+    },
+    {
+      "word": "Wadi",
+      "hint": "Rum"
+    },
+    {
+      "word": "Oasis",
+      "hint": "Desert"
+    },
+    {
+      "word": "Mirage",
+      "hint": "Illusion"
+    },
+    {
+      "word": "Illusion",
+      "hint": "Optical"
+    },
+    {
+      "word": "Magic",
+      "hint": "Trick"
+    },
+    {
+      "word": "Trick",
+      "hint": "Treat"
+    },
+    {
+      "word": "Treat",
+      "hint": "Dog"
+    },
+    {
+      "word": "Snack",
+      "hint": "Attack"
+    },
+    {
+      "word": "Bite",
+      "hint": "Mark"
+    },
+    {
+      "word": "Mark",
+      "hint": "Twain"
+    },
+    {
+      "word": "Twain",
+      "hint": "Train"
+    },
+    {
+      "word": "Train",
+      "hint": "Thought"
+    },
+    {
+      "word": "Thought",
+      "hint": "Police"
+    },
+    {
+      "word": "Police",
+      "hint": "State"
+    },
+    {
+      "word": "State",
+      "hint": "Farm"
+    },
+    {
+      "word": "Farm",
+      "hint": "Animal"
+    },
+    {
+      "word": "Animal",
+      "hint": "House"
+    },
+    {
+      "word": "House",
+      "hint": "Party"
+    },
+    {
+      "word": "Party",
+      "hint": "Foul"
+    },
+    {
+      "word": "Foul",
+      "hint": "Ball"
+    },
+    {
+      "word": "Ball",
+      "hint": "Park"
+    },
+    {
+      "word": "Park",
+      "hint": "Avenue"
+    },
+    {
+      "word": "Avenue",
+      "hint": "Q"
+    },
+    {
+      "word": "Q",
+      "hint": "Tip"
+    },
+    {
+      "word": "Tip",
+      "hint": "Toe"
+    },
+    {
+      "word": "Toe",
+      "hint": "Jam"
+    },
+    {
+      "word": "Jam",
+      "hint": "Session"
+    },
+    {
+      "word": "Session",
+      "hint": "Jam"
+    },
+    {
+      "word": "Rock",
+      "hint": "Band"
+    },
+    {
+      "word": "Band",
+      "hint": "Aid"
+    },
+    {
+      "word": "Aid",
+      "hint": "Kit"
+    },
+    {
+      "word": "Kit",
+      "hint": "Kat"
+    },
+    {
+      "word": "Kat",
+      "hint": "Dog"
+    },
+    {
+      "word": "Dog",
+      "hint": "House"
+    },
+    {
+      "word": "House",
+      "hint": "Wife"
+    },
+    {
+      "word": "Wife",
+      "hint": "Swap"
+    },
+    {
+      "word": "Swap",
+      "hint": "Meet"
+    },
+    {
+      "word": "Meet",
+      "hint": "Cute"
+    },
+    {
+      "word": "Cute",
+      "hint": "Boy"
+    },
+    {
+      "word": "Boy",
+      "hint": "Scout"
+    },
+    {
+      "word": "Scout",
+      "hint": "Honor"
+    },
+    {
+      "word": "Honor",
+      "hint": "Roll"
+    },
+    {
+      "word": "Roll",
+      "hint": "Play"
+    },
+    {
+      "word": "Play",
+      "hint": "Date"
+    },
+    {
+      "word": "Date",
+      "hint": "Night"
+    },
+    {
+      "word": "Night",
+      "hint": "Cap"
+    },
+    {
+      "word": "Cap",
+      "hint": "Gown"
+    },
+    {
+      "word": "Gown",
+      "hint": "Ball"
+    },
+    {
+      "word": "Ball",
+      "hint": "Gown"
+    },
+    {
+      "word": "Room",
+      "hint": "Mate"
+    },
+    {
+      "word": "Mate",
+      "hint": "Check"
+    },
+    {
+      "word": "Check",
+      "hint": "Mate"
+    },
+    {
+      "word": "Mate",
+      "hint": "Soul"
+    },
+    {
+      "word": "Soul",
+      "hint": "Mate"
+    },
+    {
+      "word": "Heart",
+      "hint": "Beat"
+    },
+    {
+      "word": "Beat",
+      "hint": "Box"
+    },
+    {
+      "word": "Box",
+      "hint": "Car"
+    },
+    {
+      "word": "Car",
+      "hint": "Seat"
+    },
+    {
+      "word": "Seat",
+      "hint": "Belt"
+    },
+    {
+      "word": "Belt",
+      "hint": "Buckle"
+    },
+    {
+      "word": "Buckle",
+      "hint": "Up"
+    },
+    {
+      "word": "Up",
+      "hint": "Town"
+    },
+    {
+      "word": "Town",
+      "hint": "Hall"
+    },
+    {
+      "word": "Hall",
+      "hint": "Way"
+    },
+    {
+      "word": "Way",
+      "hint": "Out"
+    },
+    {
+      "word": "Out",
+      "hint": "Back"
+    },
+    {
+      "word": "Back",
+      "hint": "Pack"
+    },
+    {
+      "word": "Pack",
+      "hint": "Rat"
+    },
+    {
+      "word": "Rat",
+      "hint": "Race"
+    },
+    {
+      "word": "Race",
+      "hint": "Car"
+    },
+    {
+      "word": "Car",
+      "hint": "Wash"
+    },
+    {
+      "word": "Wash",
+      "hint": "Room"
+    },
+    {
+      "word": "Room",
+      "hint": "Service"
+    },
+    {
+      "word": "Service",
+      "hint": "Dog"
+    },
+    {
+      "word": "Dog",
+      "hint": "Tag"
+    },
+    {
+      "word": "Tag",
+      "hint": "Team"
+    },
+    {
+      "word": "Team",
+      "hint": "Work"
+    },
+    {
+      "word": "Work",
+      "hint": "Out"
+    },
+    {
+      "word": "Out",
+      "hint": "Fit"
     }
   ]
 }
