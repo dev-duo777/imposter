@@ -13,26 +13,37 @@ import wordData from './data/words.json';
 
 const getNextWord = (difficulty) => {
   const storageKey = `played_indices_${difficulty}`;
-  // Use sessionStorage so the set resets when the tab is closed
-  let playedSet = new Set(JSON.parse(sessionStorage.getItem(storageKey) || '[]'));
+  const versionKey = `dataset_version_${difficulty}`;
   
   const max = wordData[difficulty]?.length || 0;
   if (max === 0) return { word: "Unknown", hint: "Unknown" }; 
   
-  // If we somehow played all words in one session, reset the set
+  // Create a signature based on the length and the first word to detect updates
+  const currentSignature = `${max}_${wordData[difficulty][0]?.word}`;
+  
+  // If the dataset has changed (e.g., an app update was pushed), clear the played history
+  if (localStorage.getItem(versionKey) !== currentSignature) {
+    localStorage.removeItem(storageKey);
+    localStorage.setItem(versionKey, currentSignature);
+  }
+  
+  // Use localStorage to persist the played set across sessions/days
+  let playedSet = new Set(JSON.parse(localStorage.getItem(storageKey) || '[]'));
+  
+  // If we somehow played all words, reset the set to allow replay
   if (playedSet.size >= max) {
     playedSet.clear();
   }
   
   let randomIndex;
-  // Generate random numbers until we find one that hasn't been played in this session
+  // Generate random numbers until we find one that hasn't been played yet
   do {
     randomIndex = Math.floor(Math.random() * max);
   } while (playedSet.has(randomIndex));
   
-  // Add to played set and save to session
+  // Add to played set and save to local storage
   playedSet.add(randomIndex);
-  sessionStorage.setItem(storageKey, JSON.stringify(Array.from(playedSet)));
+  localStorage.setItem(storageKey, JSON.stringify(Array.from(playedSet)));
   
   return wordData[difficulty][randomIndex];
 };
