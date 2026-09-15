@@ -1199,646 +1199,6 @@
     {
       "word": "Clear",
       "hint": "Sky"
-    },
-    {
-      "word": "Cloudy",
-      "hint": "Day"
-    },
-    {
-      "word": "Sunny",
-      "hint": "Side"
-    },
-    {
-      "word": "Rainy",
-      "hint": "Day"
-    },
-    {
-      "word": "Snowy",
-      "hint": "Owl"
-    },
-    {
-      "word": "Windy",
-      "hint": "City"
-    },
-    {
-      "word": "Stormy",
-      "hint": "Weather"
-    },
-    {
-      "word": "Loud",
-      "hint": "Mouth"
-    },
-    {
-      "word": "Quiet",
-      "hint": "Riot"
-    },
-    {
-      "word": "Silent",
-      "hint": "Night"
-    },
-    {
-      "word": "Noisy",
-      "hint": "Neighbor"
-    },
-    {
-      "word": "Fast",
-      "hint": "Food"
-    },
-    {
-      "word": "Slow",
-      "hint": "Motion"
-    },
-    {
-      "word": "Quick",
-      "hint": "Sand"
-    },
-    {
-      "word": "Early",
-      "hint": "Bird"
-    },
-    {
-      "word": "Late",
-      "hint": "Night"
-    },
-    {
-      "word": "Young",
-      "hint": "Gun"
-    },
-    {
-      "word": "Old",
-      "hint": "School"
-    },
-    {
-      "word": "New",
-      "hint": "York"
-    },
-    {
-      "word": "Good",
-      "hint": "Grief"
-    },
-    {
-      "word": "Bad",
-      "hint": "Boy"
-    },
-    {
-      "word": "Right",
-      "hint": "Turn"
-    },
-    {
-      "word": "Wrong",
-      "hint": "Way"
-    },
-    {
-      "word": "True",
-      "hint": "Love"
-    },
-    {
-      "word": "False",
-      "hint": "Alarm"
-    },
-    {
-      "word": "Real",
-      "hint": "Estate"
-    },
-    {
-      "word": "Fake",
-      "hint": "News"
-    },
-    {
-      "word": "Full",
-      "hint": "Moon"
-    },
-    {
-      "word": "Empty",
-      "hint": "Nest"
-    },
-    {
-      "word": "Rich",
-      "hint": "Kid"
-    },
-    {
-      "word": "Poor",
-      "hint": "Boy"
-    },
-    {
-      "word": "Happy",
-      "hint": "Meal"
-    },
-    {
-      "word": "Sad",
-      "hint": "Song"
-    },
-    {
-      "word": "Glad",
-      "hint": "Bag"
-    },
-    {
-      "word": "Mad",
-      "hint": "Hatter"
-    },
-    {
-      "word": "Angry",
-      "hint": "Bird"
-    },
-    {
-      "word": "Brave",
-      "hint": "Heart"
-    },
-    {
-      "word": "Scared",
-      "hint": "Stiff"
-    },
-    {
-      "word": "Smart",
-      "hint": "Alec"
-    },
-    {
-      "word": "Dumb",
-      "hint": "Bell"
-    },
-    {
-      "word": "Wise",
-      "hint": "Guy"
-    },
-    {
-      "word": "Foolish",
-      "hint": "Pride"
-    },
-    {
-      "word": "Crazy",
-      "hint": "Horse"
-    },
-    {
-      "word": "Sane",
-      "hint": "Asylum"
-    },
-    {
-      "word": "Funny",
-      "hint": "Bone"
-    },
-    {
-      "word": "Serious",
-      "hint": "Business"
-    },
-    {
-      "word": "Wild",
-      "hint": "Card"
-    },
-    {
-      "word": "Calm",
-      "hint": "Down"
-    },
-    {
-      "word": "Busy",
-      "hint": "Bee"
-    },
-    {
-      "word": "Lazy",
-      "hint": "Bones"
-    },
-    {
-      "word": "Tired",
-      "hint": "Eyes"
-    },
-    {
-      "word": "Awake",
-      "hint": "Dream"
-    },
-    {
-      "word": "Asleep",
-      "hint": "Wheel"
-    },
-    {
-      "word": "Alive",
-      "hint": "Kicking"
-    },
-    {
-      "word": "Dead",
-      "hint": "End"
-    },
-    {
-      "word": "Birth",
-      "hint": "Day"
-    },
-    {
-      "word": "Death",
-      "hint": "Star"
-    },
-    {
-      "word": "Life",
-      "hint": "Guard"
-    },
-    {
-      "word": "Love",
-      "hint": "Bird"
-    },
-    {
-      "word": "Hate",
-      "hint": "Crime"
-    },
-    {
-      "word": "Fear",
-      "hint": "Factor"
-    },
-    {
-      "word": "Hope",
-      "hint": "Diamond"
-    },
-    {
-      "word": "Dream",
-      "hint": "Boat"
-    },
-    {
-      "word": "Night",
-      "hint": "Mare"
-    },
-    {
-      "word": "Day",
-      "hint": "Light"
-    },
-    {
-      "word": "Morning",
-      "hint": "Glory"
-    },
-    {
-      "word": "Evening",
-      "hint": "Gown"
-    },
-    {
-      "word": "Night",
-      "hint": "Owl"
-    },
-    {
-      "word": "Today",
-      "hint": "Show"
-    },
-    {
-      "word": "Tomorrow",
-      "hint": "Never"
-    },
-    {
-      "word": "Yesterday",
-      "hint": "Beatles"
-    },
-    {
-      "word": "Week",
-      "hint": "End"
-    },
-    {
-      "word": "Month",
-      "hint": "End"
-    },
-    {
-      "word": "Year",
-      "hint": "Book"
-    },
-    {
-      "word": "Decade",
-      "hint": "Dance"
-    },
-    {
-      "word": "Century",
-      "hint": "Fox"
-    },
-    {
-      "word": "Time",
-      "hint": "Machine"
-    },
-    {
-      "word": "Hour",
-      "hint": "Glass"
-    },
-    {
-      "word": "Minute",
-      "hint": "Maid"
-    },
-    {
-      "word": "Second",
-      "hint": "Hand"
-    },
-    {
-      "word": "Clock",
-      "hint": "Work"
-    },
-    {
-      "word": "Watch",
-      "hint": "Dog"
-    },
-    {
-      "word": "Calendar",
-      "hint": "Girl"
-    },
-    {
-      "word": "Diary",
-      "hint": "Wimpy"
-    },
-    {
-      "word": "Journal",
-      "hint": "Wall"
-    },
-    {
-      "word": "Book",
-      "hint": "Worm"
-    },
-    {
-      "word": "Page",
-      "hint": "Turner"
-    },
-    {
-      "word": "Chapter",
-      "hint": "Verse"
-    },
-    {
-      "word": "Story",
-      "hint": "Board"
-    },
-    {
-      "word": "Poem",
-      "hint": "Ode"
-    },
-    {
-      "word": "Song",
-      "hint": "Bird"
-    },
-    {
-      "word": "Music",
-      "hint": "Box"
-    },
-    {
-      "word": "Art",
-      "hint": "Work"
-    },
-    {
-      "word": "Paint",
-      "hint": "Ball"
-    },
-    {
-      "word": "Draw",
-      "hint": "Bridge"
-    },
-    {
-      "word": "Picture",
-      "hint": "Frame"
-    },
-    {
-      "word": "Photo",
-      "hint": "Graph"
-    },
-    {
-      "word": "Image",
-      "hint": "Mirror"
-    },
-    {
-      "word": "Film",
-      "hint": "Strip"
-    },
-    {
-      "word": "Movie",
-      "hint": "Star"
-    },
-    {
-      "word": "Video",
-      "hint": "Game"
-    },
-    {
-      "word": "Play",
-      "hint": "Ground"
-    },
-    {
-      "word": "Game",
-      "hint": "Boy"
-    },
-    {
-      "word": "Toy",
-      "hint": "Story"
-    },
-    {
-      "word": "Doll",
-      "hint": "House"
-    },
-    {
-      "word": "Bear",
-      "hint": "Hug"
-    },
-    {
-      "word": "Ball",
-      "hint": "Park"
-    },
-    {
-      "word": "Bat",
-      "hint": "Man"
-    },
-    {
-      "word": "Glove",
-      "hint": "Box"
-    },
-    {
-      "word": "Mask",
-      "hint": "Face"
-    },
-    {
-      "word": "Cape",
-      "hint": "Cod"
-    },
-    {
-      "word": "Crown",
-      "hint": "Jewel"
-    },
-    {
-      "word": "King",
-      "hint": "Kong"
-    },
-    {
-      "word": "Queen",
-      "hint": "Bee"
-    },
-    {
-      "word": "Prince",
-      "hint": "Charming"
-    },
-    {
-      "word": "Princess",
-      "hint": "Leia"
-    },
-    {
-      "word": "Castle",
-      "hint": "Rock"
-    },
-    {
-      "word": "Knight",
-      "hint": "Rider"
-    },
-    {
-      "word": "Dragon",
-      "hint": "Fly"
-    },
-    {
-      "word": "Fairy",
-      "hint": "Tale"
-    },
-    {
-      "word": "Magic",
-      "hint": "Wand"
-    },
-    {
-      "word": "Spell",
-      "hint": "Bound"
-    },
-    {
-      "word": "Curse",
-      "hint": "Word"
-    },
-    {
-      "word": "Ghost",
-      "hint": "Town"
-    },
-    {
-      "word": "Zombie",
-      "hint": "Walk"
-    },
-    {
-      "word": "Vampire",
-      "hint": "Bat"
-    },
-    {
-      "word": "Wolf",
-      "hint": "Man"
-    },
-    {
-      "word": "Monster",
-      "hint": "Mash"
-    },
-    {
-      "word": "Alien",
-      "hint": "UFO"
-    },
-    {
-      "word": "Robot",
-      "hint": "Cop"
-    },
-    {
-      "word": "Cyborg",
-      "hint": "Teen"
-    },
-    {
-      "word": "Mutant",
-      "hint": "Ninja"
-    },
-    {
-      "word": "Hero",
-      "hint": "Sandwich"
-    },
-    {
-      "word": "Villain",
-      "hint": "Super"
-    },
-    {
-      "word": "Police",
-      "hint": "State"
-    },
-    {
-      "word": "Cop",
-      "hint": "Out"
-    },
-    {
-      "word": "Thief",
-      "hint": "River"
-    },
-    {
-      "word": "Robber",
-      "hint": "Bank"
-    },
-    {
-      "word": "Spy",
-      "hint": "Glass"
-    },
-    {
-      "word": "Agent",
-      "hint": "Orange"
-    },
-    {
-      "word": "Doctor",
-      "hint": "Who"
-    },
-    {
-      "word": "Nurse",
-      "hint": "Shark"
-    },
-    {
-      "word": "Patient",
-      "hint": "Zero"
-    },
-    {
-      "word": "Clinic",
-      "hint": "Free"
-    },
-    {
-      "word": "Hospital",
-      "hint": "Gown"
-    },
-    {
-      "word": "Medicine",
-      "hint": "Man"
-    },
-    {
-      "word": "Pill",
-      "hint": "Bug"
-    },
-    {
-      "word": "Drug",
-      "hint": "Store"
-    },
-    {
-      "word": "Poison",
-      "hint": "Ivy"
-    },
-    {
-      "word": "Venom",
-      "hint": "Snake"
-    },
-    {
-      "word": "Cure",
-      "hint": "All"
-    },
-    {
-      "word": "Health",
-      "hint": "Care"
-    },
-    {
-      "word": "Sick",
-      "hint": "Leave"
-    },
-    {
-      "word": "Disease",
-      "hint": "Control"
-    },
-    {
-      "word": "Fever",
-      "hint": "Pitch"
-    },
-    {
-      "word": "Cold",
-      "hint": "War"
-    },
-    {
-      "word": "Flu",
-      "hint": "Shot"
-    },
-    {
-      "word": "Cough",
-      "hint": "Drop"
-    },
-    {
-      "word": "Sneeze",
-      "hint": "Guard"
-    },
-    {
-      "word": "Pain",
-      "hint": "Killer"
-    },
-    {
-      "word": "Ache",
-      "hint": "Heart"
     }
   ],
   "medium": [
@@ -3041,46 +2401,6 @@
     {
       "word": "Balloon",
       "hint": "Hot"
-    },
-    {
-      "word": "Blimp",
-      "hint": "Goodyear"
-    },
-    {
-      "word": "Rocket",
-      "hint": "Man"
-    },
-    {
-      "word": "Missile",
-      "hint": "Command"
-    },
-    {
-      "word": "Satellite",
-      "hint": "Dish"
-    },
-    {
-      "word": "Station",
-      "hint": "Space"
-    },
-    {
-      "word": "Orbit",
-      "hint": "Gum"
-    },
-    {
-      "word": "Planet",
-      "hint": "Hollywood"
-    },
-    {
-      "word": "Star",
-      "hint": "Wars"
-    },
-    {
-      "word": "Sun",
-      "hint": "Dial"
-    },
-    {
-      "word": "Moon",
-      "hint": "Walk"
     }
   ],
   "hard": [
@@ -4163,6 +3483,126 @@
     {
       "word": "Out",
       "hint": "Fit"
+    },
+    {
+      "word": "Obelisk",
+      "hint": "Monument"
+    },
+    {
+      "word": "Ziggurat",
+      "hint": "Step"
+    },
+    {
+      "word": "Acropolis",
+      "hint": "Hill"
+    },
+    {
+      "word": "Pantheon",
+      "hint": "Rome"
+    },
+    {
+      "word": "Chameleon",
+      "hint": "Blend"
+    },
+    {
+      "word": "Iguana",
+      "hint": "Lizard"
+    },
+    {
+      "word": "Komodo",
+      "hint": "Dragon"
+    },
+    {
+      "word": "Gila",
+      "hint": "Monster"
+    },
+    {
+      "word": "Tarantula",
+      "hint": "Hairy"
+    },
+    {
+      "word": "Scorpion",
+      "hint": "Sting"
+    },
+    {
+      "word": "Centipede",
+      "hint": "Legs"
+    },
+    {
+      "word": "Millipede",
+      "hint": "Many"
+    },
+    {
+      "word": "Geyser",
+      "hint": "Erupt"
+    },
+    {
+      "word": "Glacier",
+      "hint": "Ice"
+    },
+    {
+      "word": "Tundra",
+      "hint": "Frozen"
+    },
+    {
+      "word": "Fjord",
+      "hint": "Norway"
+    },
+    {
+      "word": "Bonsai",
+      "hint": "Tiny"
+    },
+    {
+      "word": "Baobab",
+      "hint": "Thick"
+    },
+    {
+      "word": "Sequoia",
+      "hint": "Giant"
+    },
+    {
+      "word": "Banyan",
+      "hint": "Roots"
+    },
+    {
+      "word": "Sundial",
+      "hint": "Shadow"
+    },
+    {
+      "word": "Astrolabe",
+      "hint": "Navigate"
+    },
+    {
+      "word": "Sextant",
+      "hint": "Stars"
+    },
+    {
+      "word": "Gyroscope",
+      "hint": "Spin"
+    },
+    {
+      "word": "Hologram",
+      "hint": "Fake"
+    },
+    {
+      "word": "Laser",
+      "hint": "Beam"
+    },
+    {
+      "word": "Sonar",
+      "hint": "Ping"
+    },
+    {
+      "word": "Radar",
+      "hint": "Sweep"
+    },
+    {
+      "word": "Ozone",
+      "hint": "Layer"
+    },
+    {
+      "word": "Stratosphere",
+      "hint": "High"
     }
   ]
 }
