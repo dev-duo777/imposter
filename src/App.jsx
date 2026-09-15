@@ -18,8 +18,8 @@ const getNextWord = (difficulty) => {
   const max = wordData[difficulty]?.length || 0;
   if (max === 0) return { word: "Unknown", hint: "Unknown" }; 
   
-  // Create a signature based on the length and the first word to detect updates
-  const currentSignature = `${max}_${wordData[difficulty][0]?.word}`;
+  // Create a signature based on the first word of EVERY category to detect updates globally
+  const currentSignature = `${wordData.easy?.[0]?.word}_${wordData.medium?.[0]?.word}_${wordData.hard?.[0]?.word}`;
   
   // If the dataset has changed (e.g., an app update was pushed), clear the played history
   if (localStorage.getItem(versionKey) !== currentSignature) {
